@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1380491389 source:/home/matt/programming/turret/main.cpp
+	<iostream>
+	"serial.h"
+	"motors.h"
+	"audio.h"
+	"visual.h"
+	"autoturret.h"
+
+1380490820 /home/matt/programming/turret/serial.h
+
+1380491117 source:/home/matt/programming/turret/audio.cpp
+	"audio.h"
+
+1380491117 /home/matt/programming/turret/audio.h
+
+1380491359 source:/home/matt/programming/turret/autoturret.cpp
+	"autoturret.h"
+
+1380491359 /home/matt/programming/turret/autoturret.h
+
+1380490862 source:/home/matt/programming/turret/serial.cpp
+	"serial.h"
+
+1380491251 source:/home/matt/programming/turret/visual.cpp
+	"visual.h"
+
+1380491251 /home/matt/programming/turret/visual.h
+
+1380491836 /home/matt/programming/turret/motors.h
+
